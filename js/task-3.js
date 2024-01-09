@@ -1,3 +1,5 @@
+
+
 function getElementWidth(content, padding, border) {
     // Parse the values to remove "px" and convert to numbers
     const contentWidth = parseFloat(content);
